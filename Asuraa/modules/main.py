@@ -132,7 +132,7 @@ async def start(_, msg):
     REPO_BTN = [
         [
           InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Ravan_Lankaa"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/tinaarobot/COPYRIGHT"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/GOD-R4V4N/RavanCopyRight-Robot"),
           ],
     ]
     
