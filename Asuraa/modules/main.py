@@ -244,7 +244,7 @@ def delete_long_messages(_, m):
 @app.on_message(filters.group & filters.private & delete_long_messages)
 async def delete_and_reply(_, msg):
     await msg.delete()
-    user_mention = msg.from_user.mention
+   #user_mention = msg.from_user.mention
     await app.send_message(msg.chat.id, f"✦ ʜᴇʏ {user_mention} ʙᴀʙʏ, ᴘʟᴇᴀsᴇ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ sʜᴏʀᴛ.")
     
 
