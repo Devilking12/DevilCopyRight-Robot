@@ -17,7 +17,7 @@ from pyrogram.errors import FloodWait
 
 
 Ravan = [
-    "https://graph.org/file/4c0d4cba1bf252ed91e06.jpg",    
+    "https://graph.org/file/ec347eaf321455db07748.jpg",    
 ]
 
 
